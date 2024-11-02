@@ -46,6 +46,19 @@
 
 [![An image of @nitendra2211's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/nitendra2211)](https://holopin.io/@nitendra2211)
 
+
+###
+
+<h3 align="left">🔥   My Stats :</h3>
+
+###
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=nitendra2211&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+</div>
+
+###
+
 <!---
 nitendra2211/nitendra2211 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
