@@ -1,15 +1,3 @@
-###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/nitendra2211/nitendra2211/output/snake.svg" alt="Snake animation" />
-
-###
-
-
-
-
-
 
 <h1 align="center">Hi 👋, I'm Nitendra Singh</h1>
 <h3 align="center">Aspiring Software developer</h3>
