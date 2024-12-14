@@ -2,11 +2,11 @@
 <h1 align="center">Hi 👋, I'm Nitendra Singh</h1>
 <h3 align="center">Aspiring Software developer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=nitendra2211&label=Profile%20views&color=black&style=flat" alt="nitendra2211" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=nitendra2211&label=Profile%20views&color=2f4f4f&style=flat" alt="nitendra2211" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nitendra2211" alt="nitendra2211" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/nitendras90348" target="blank"><img src="https://img.shields.io/twitter/follow/nitendras90348?logo=twitter&color=black&style=for-the-badge" alt="nitendras90348" /></a> </p>
+<p align="left"> <a href="https://twitter.com/nitendras90348" target="blank"><img src="https://img.shields.io/twitter/follow/nitendras90348?logo=twitter&style=for-the-badge" alt="nitendras90348" /></a> </p>
 
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/sanjay-kv/sanjay-kv/main/Assets/illustration.png">
 
