@@ -48,7 +48,15 @@
 
 <h3>Hacktoberfest 2024 Badges:</h3>
 
-[![An image of @nitendra2211's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/nitendra2211)](https://holopin.io/@nitendra2211)
+[![An image of @nitendra2211's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/nitendra2211)](https://holopin.io/@nitendra2211) 
+
+<br>
+<div>
+  <div align="center" ><h2 align="center">💻 Contribution Graph 💻</h2></div>
+ 
+  [![Nitendra's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=nitendra2211&hide_border=true&theme=github)](https://github.com/ashutosh00710/github-readme-activity-graph)
+ 
+</div>
 
 
 ###
