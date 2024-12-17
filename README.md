@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Nitendra Singh</h1>
-<h3 align="center">Aspiring Software developer</h3>
+<h3 align="center">Aspiring Software Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nitendra2211&label=Profile%20views&color=2f4f4f&style=flat" alt="nitendra2211" /> </p>
 
