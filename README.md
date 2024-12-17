@@ -52,7 +52,7 @@
 <div>
   <div align="center" ><h2 align="center">💻 Contribution Graph 💻</h2></div>
  
-  [![Nitendra's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=nitendra2211&hide_border=true&theme=github)](https://github.com/ashutosh00710/github-readme-activity-graph)
+  [![Nitendra's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=nitendra2211&hide_border=true&theme=github&height=280)](https://github.com/ashutosh00710/github-readme-activity-graph)
  
 </div>
 
